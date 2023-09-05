@@ -5,5 +5,5 @@ This repository includes 2 folder
 2>Digit Recognition using CNN(Convolutional Neural Network)
 # #IDE used
 Jupyter-Lab
-(I have included comments and markdowns in my project for understanding)
+(I have included comments and markdowns in my project for better understanding)
 Happy Learning!
